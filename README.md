@@ -1,4 +1,4 @@
-# default-dark: <br> Theme for ImageGlass 9.0, 8.2+
+# DarkUI: <br> Theme for ImageGlass 9.0, 8.2+
 
 The theme uses more than 34 icons from the site presented above at the link you can use them, below are the icons used in the theme:
 
