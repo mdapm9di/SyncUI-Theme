@@ -8,9 +8,6 @@ A stylish, modern dual-tone theme designed to enhance your ImageGlass experience
 - **Unified Icon Set:** 34+ carefully selected Google Material Design icons for consistent, modern look
 - **Complete Compatibility:** Fully supports both ImageGlass 9.0 and 8.2+ versions
 - **Eye Comfort:** Optimized colors reduce eye strain during extended viewing sessions
-## Compatibility
-* **ImageGlass 9.0**
-* **ImageGlass 8.2+**
 ## Resources Used
 * Icons: [Material Symbols & Icons (Google Fonts)](https://fonts.google.com/icons)
 * Documentation: [ImageGlass Theme Documentation](https://imageglass.org/docs)
