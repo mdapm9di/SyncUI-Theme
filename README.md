@@ -6,7 +6,7 @@ A stylish, modern dual-tone theme designed to enhance your ImageGlass experience
 ## Features
 - **Dual-Tone Design:** Choose between elegant dark mode for night viewing and clean light mode for daytime use
 - **Unified Icon Set:** 34+ carefully selected Google Material Design icons for consistent, modern look
-- **Complete Compatibility:** Fully supports both ImageGlass 9.0 and 8.2+ versions
+- **Complete Compatibility:** Fully supports both ImageGlass 9.0 and 8.3+ versions
 - **Eye Comfort:** Optimized colors reduce eye strain during extended viewing sessions
 ## Resources Used
 * Icons: [Material Symbols & Icons (Google Fonts)](https://fonts.google.com/icons)
