@@ -4,12 +4,12 @@
     "Version": "9.0"
   },
   "Info": {
-    "Name": "DarkUI-ImageGlass",
+    "Name": "SyncUI-Dark",
     "Author": "mdapm9di",
     "Email": "mdapm9di@gmail.com",
-	  "WebSite": "https://github.com/mdapm9di/DarkUI-ImageGlass",
-    "Description": "Dark-UI is a theme for the ImageGlass 9.0, 8.2+ application with dark color accents and Google icons",
-    "Version": "1.0"
+	  "WebSite": "https://github.com/mdapm9di/SyncUI-Theme",
+    "Description": "SyncUI-Dark is a theme for the ImageGlass 9.0, 8.2+ application with dark color accents and Google icons",
+    "Version": "1.0.0"
   },
   "Settings": {
     "IsDarkMode": true,

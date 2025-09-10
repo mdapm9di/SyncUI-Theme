@@ -1,12 +1,12 @@
 <ImageGlass>
     <Theme>
         <Info
-            name="Default Dark"
-            version="1.1"
+            name="SyncUI-Dark"
+            version="1.0.0"
             author="mdapm9di"
             email="mdapm9di@gmail.com"
-            website="https://github.com/mdapm9di/DarkUI-ImageGlass"
-            description="Dark-UI is a theme for the ImageGlass 9.0, 8.2+ application with dark color accents and Google icons"
+            website="https://github.com/mdapm9di/SyncUI-Theme"
+            description="SyncUI-Dark is a theme for the ImageGlass 9.0, 8.2+ application with dark color accents and Google icons"
             type="ImageGlass Theme Configuration"
             preview="Preview.jpg"
         />
