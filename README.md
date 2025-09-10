@@ -10,7 +10,7 @@ A stylish, modern dual-tone theme designed to enhance your ImageGlass experience
 - **Complete Compatibility:** Fully supports both ImageGlass 9.0 and 8.3+ versions
 - **Eye Comfort:** Optimized colors reduce eye strain during extended viewing sessions
 ## Installation
-1. ![Download](https://imageglass.org/release/imageglass-9-3-2-520-59) the latest stable version of the ImageGlass app from the website.
+1. ![Download](https://imageglass.org/) the latest stable version of the ImageGlass app from the website.
 2. ![Download](https://github.com/mdapm9di/SyncUI-Theme/releases) from the repository in the releases section the latest version of the SyncUI theme to choose from white or dark
 3. Open ImageGlass, go to settings, and find the application's design there, then select Install, and select the theme you downloaded SyncUI-Dark.igtheme or SyncUI-White.igtheme
 ## Resources Used
