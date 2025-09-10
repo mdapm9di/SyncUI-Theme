@@ -1,4 +1,4 @@
-# SyncUI-Theme: Light & Dark Theme for @@ImageGlass
+# SyncUI-Theme: Light & Dark Theme for @ImageGlass
 
 ![screenshot](https://github.com/mdapm9di/SyncUI-Theme/blob/main/preview-9.0.png)
 ![screenshot](https://github.com/mdapm9di/SyncUI-Theme/blob/main/preview-8.3+.png)
