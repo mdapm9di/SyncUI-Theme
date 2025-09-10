@@ -1,4 +1,4 @@
-# SyncUI: Light & Dark Theme for ImageGlass
+# SyncUI-Theme: Light & Dark Theme for ImageGlass
 A stylish, modern dual-tone theme designed to enhance your ImageGlass experience. SyncUI offers both sleek dark and clean light variations, replacing default UI elements with 34+ minimalist Material Design icons. This theme creates a clean, focused environment that doesn't distract from your photos while maintaining perfect visual harmony across both modes.
 ## Features
 - **Dual-Tone Design:** Choose between elegant dark mode for night viewing and clean light mode for daytime use
@@ -11,5 +11,5 @@ A stylish, modern dual-tone theme designed to enhance your ImageGlass experience
 ## Resources Used
 * Icons: [Material Symbols & Icons (Google Fonts)](https://fonts.google.com/icons)
 * Documentation: [ImageGlass Theme Documentation](https://imageglass.org/docs)
----
+
 **Enjoy comfortable viewing with SyncUI's perfect balance of light and dark!**
