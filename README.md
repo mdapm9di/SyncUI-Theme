@@ -1,4 +1,5 @@
 # SyncUI-Theme: Light & Dark Theme for ImageGlass
+![README-ru.md](https://github.com/mdapm9di/SyncUI-Theme/blob/main/README-ru.md)
 
 ![screenshot](https://github.com/mdapm9di/SyncUI-Theme/blob/main/preview-9.0.png)
 ![screenshot](https://github.com/mdapm9di/SyncUI-Theme/blob/main/preview-8.3+.png)
@@ -12,7 +13,7 @@ A stylish, modern dual-tone theme designed to enhance your ImageGlass experience
 ## Installation
 1. ![Download](https://imageglass.org/) the latest stable version of the ImageGlass app from the website.
 2. ![Download](https://github.com/mdapm9di/SyncUI-Theme/releases) from the repository in the releases section the latest version of the SyncUI theme to choose from white or dark
-3. Open ImageGlass, go to settings, and find the application's design there, then select Install, and select the theme you downloaded SyncUI-Dark.igtheme or SyncUI-White.igtheme
+3. Open ImageGlass, go to settings, and find the application's design there, then select Install, and select the theme you downloaded `SyncUI-Dark.igtheme` or `SyncUI-White.igtheme`
 ## Resources Used
 * Icons: [Material Symbols & Icons (Google Fonts)](https://fonts.google.com/icons)
 * Documentation: [ImageGlass Theme Documentation](https://ImageGlass.org/docs)
