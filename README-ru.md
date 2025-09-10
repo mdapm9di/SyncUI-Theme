@@ -1,5 +1,5 @@
 # SyncUI-Theme: Светлая и тёмная темы для ImageGlass
-![README-en.md](https://github.com/mdapm9di/SyncUI-Theme/blob/main/README.md)
+![README-en.md](https://github.com/mdapm9di/SyncUI-Theme)
 
 ![скриншот](https://github.com/mdapm9di/SyncUI-Theme/blob/main/preview-9.0.png)
 ![скриншот](https://github.com/mdapm9di/SyncUI-Theme/blob/main/preview-8.3+.png)
