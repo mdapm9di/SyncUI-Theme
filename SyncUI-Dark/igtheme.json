@@ -1,0 +1,81 @@
+{
+  "_Metadata": {
+    "Description": "ImageGlass theme configuration file",
+    "Version": "9.0"
+  },
+  "Info": {
+    "Name": "SyncUI-Dark",
+    "Author": "mdapm9di",
+    "Email": "mdapm9di@gmail.com",
+	  "WebSite": "https://github.com/mdapm9di/SyncUI-Theme",
+    "Description": "SyncUI-Theme is a light and dark theme for ImageGlass 9.0, 8.3+ with Google-style accents and minimalist icons.",
+    "Version": "1.0.0"
+  },
+  "Settings": {
+    "IsDarkMode": true,
+    "NavButtonLeft": "ViewPreviousImage.svg",
+    "NavButtonRight": "ViewNextImage.svg",
+    "AppLogo": "Logo.svg",
+    "PreviewImage": "Preview.png"
+  },
+  "Colors": {
+    "BgColor": "#121212",
+    "TextColor": "#F0F0F0",
+
+    "ToolbarBgColor": "#1E1E1E",
+    "ToolbarTextColor": "#F0F0F0",
+    "ToolbarItemHoverColor": "#2D2D2D",
+    "ToolbarItemActiveColor": "#404040",
+    "ToolbarItemSelectedColor": "#404040",
+
+    "GalleryBgColor": "#121212",
+    "GalleryTextColor": "#F0F0F0",
+    "GalleryItemHoverColor": "#2D2D2D",
+    "GalleryItemActiveColor": "#404040",
+    "GalleryItemSelectedColor": "#404040",
+
+    "MenuBgColor": "#121212",
+    "MenuBgHoverColor": "#2D2D2D",
+    "MenuTextColor": "#F0F0F0",
+    "MenuTextHoverColor": "#FFFFFF",
+
+    "NavigationButtonColor": "#1E1E1E"
+  },
+  "ToolbarIcons": {
+    "ActualSize": "ActualSize.svg",
+    "AutoZoom": "AutoZoom.svg",
+    "Checkerboard": "Checkerboard.svg",
+    "ColorPicker": "ColorPicker.svg",
+    "Crop": "Crop.svg",
+    "Delete": "Delete.svg",
+    "Edit": "Edit.svg",
+    "Exit": "Exit.svg",
+    "Export": "Export.svg",
+    "FlipHorz": "FlipHorz.svg",
+    "FlipVert": "FlipVert.svg",
+    "FullScreen": "FullScreen.svg",
+    "Gallery": "Gallery.svg",
+    "LockZoom": "LockZoom.svg",
+    "MainMenu": "MainMenu.svg",
+    "OpenFile": "OpenFile.svg",
+    "Pause": "Pause.svg",
+    "Play": "Play.svg",
+    "Print": "Print.svg",
+    "Refresh": "Refresh.svg",
+    "RotateLeft": "RotateLeft.svg",
+    "RotateRight": "RotateRight.svg",
+    "Save": "Save.svg",
+    "ScaleToFill": "ScaleToFill.svg",
+    "ScaleToFit": "ScaleToFit.svg",
+    "ScaleToHeight": "ScaleToHeight.svg",
+    "ScaleToWidth": "ScaleToWidth.svg",
+    "Slideshow": "Slideshow.svg",
+    "ViewFirstImage": "ViewFirstImage.svg",
+    "ViewLastImage": "ViewLastImage.svg",
+    "ViewNextImage": "ViewNextImage.svg",
+    "ViewPreviousImage": "ViewPreviousImage.svg",
+    "WindowFit": "WindowFit.svg",
+    "ZoomIn": "ZoomIn.svg",
+    "ZoomOut": "ZoomOut.svg"
+  }
+}
